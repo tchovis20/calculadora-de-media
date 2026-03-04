@@ -1,0 +1,19 @@
+.container{
+    display: flex; 
+    border: 1px solid #000;
+    width: 320px;
+    flex-direction: column;
+    margin: auto;
+    gap: 12px
+}
+
+.caixa {
+    height: 40px;
+
+}
+
+#button {
+    height: 40px;
+    background-color: #000;
+    
+}
