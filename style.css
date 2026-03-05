@@ -2,9 +2,11 @@
     display: flex; 
     border: 1px solid #000;
     width: 320px;
+    height: 500px;
     flex-direction: column;
     margin: auto;
-    gap: 12px
+    gap: 12px;
+    padding: 20px;
 }
 
 .caixa {
@@ -15,5 +17,6 @@
 #button {
     height: 40px;
     background-color: #000;
+    color: #fff;
     
 }
